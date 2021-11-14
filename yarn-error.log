@@ -1,0 +1,47 @@
+Arguments: 
+  /Users/magesss/.nvm/versions/node/v12.12.0/bin/node /usr/local/Cellar/yarn/1.22.10/libexec/bin/yarn.js add fs -S
+
+PATH: 
+  /Users/magesss/.nvm/versions/node/v12.12.0/bin:/Users/magesss/.autojump/bin:/usr/local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  12.12.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: getaddrinfo ENOTFOUND r.npm.sankuai.com
+      at GetAddrInfoReqWrap.onlookup [as oncomplete] (dns.js:60:26)
+
+npm manifest: 
+  {
+    "name": "leetcode",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "create": "node ./",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Magesss/leetcode.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/Magesss/leetcode/issues"
+    },
+    "homepage": "https://github.com/Magesss/leetcode#readme"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile

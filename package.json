@@ -1,0 +1,24 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "create": "node ./lib/create.js --dirName=测试",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magesss/leetcode.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Magesss/leetcode/issues"
+  },
+  "homepage": "https://github.com/Magesss/leetcode#readme",
+  "devDependencies": {
+    "fs": "0.0.1-security"
+  }
+}

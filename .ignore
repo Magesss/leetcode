@@ -1,0 +1,12 @@
+.DS_Store
+node_modules/
+build/
+.idea
+yarn-error.log
+mock/
+mock.config.js
+webpack-stat.html
+.history
+.cache
+src_*
+.rome
