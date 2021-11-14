@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a45e1db1-592c-4d3c-abed-622897f23538" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.ignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/create.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/public/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/public/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subject/两数之和/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/subject/两数之和/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -107,6 +101,7 @@
       <option name="presentableId" value="Default" />
       <updated>1636860644630</updated>
       <workItem from="1636860645931" duration="6228000" />
+      <workItem from="1636867687215" duration="20000" />
     </task>
     <servers />
   </component>
@@ -123,6 +118,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state width="1771" height="318" key="GridCell.Tab.0.bottom" timestamp="1636867026072">
@@ -200,7 +196,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/subject/两数之和/solution.js</url>
           <line>18</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
