@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a45e1db1-592c-4d3c-abed-622897f23538" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/subject/整数翻转/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/subject/整数翻转/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/subject/整数翻转/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/subject/整数翻转/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,7 @@
       <updated>1636860644630</updated>
       <workItem from="1636860645931" duration="6228000" />
       <workItem from="1636867687215" duration="768000" />
-      <workItem from="1636974392289" duration="2469000" />
+      <workItem from="1636974392289" duration="2729000" />
     </task>
     <servers />
   </component>
