@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,7 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a45e1db1-592c-4d3c-abed-622897f23538" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/subject/整数翻转/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/subject/整数翻转/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +41,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="20tOv06Fy02Mb41xU1Q1VPqH4qU" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -47,6 +59,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -68,11 +81,14 @@
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.solution.js (1)">
+  <component name="RunManager" selected="Node.js.solution.js (2)">
     <configuration name="create.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/lib/create.js" working-dir="$PROJECT_DIR$/lib">
       <method v="2" />
     </configuration>
     <configuration name="solution.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/subject/整数翻转/solution.js" working-dir="$PROJECT_DIR$/subject/整数翻转">
+      <method v="2" />
+    </configuration>
+    <configuration name="solution.js (2)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/subject/回文数/solution.js" working-dir="$PROJECT_DIR$/subject/回文数">
       <method v="2" />
     </configuration>
     <configuration name="solution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/subject/两数之和/solution.js" working-dir="$PROJECT_DIR$/subject/两数之和">
@@ -90,8 +106,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.solution.js (1)" />
+        <item itemvalue="Node.js.solution.js (2)" />
         <item itemvalue="npm.create" />
+        <item itemvalue="Node.js.solution.js (1)" />
         <item itemvalue="Node.js.create.js" />
         <item itemvalue="Node.js.solution.js" />
       </list>
@@ -126,80 +143,6 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="618" y="366" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1636868348816">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="618" y="366" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1636868348816" />
-    <state width="1771" height="318" key="GridCell.Tab.0.bottom" timestamp="1636984429043">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1636984429043" />
-    <state width="1771" height="318" key="GridCell.Tab.0.center" timestamp="1636984429041">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1636984429041" />
-    <state width="1771" height="318" key="GridCell.Tab.0.left" timestamp="1636984429039">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1636984429039" />
-    <state width="1771" height="318" key="GridCell.Tab.0.right" timestamp="1636984429042">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1636984429042" />
-    <state width="1771" height="392" key="GridCell.Tab.1.bottom" timestamp="1636984279283">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="392" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1636984279283" />
-    <state width="1771" height="392" key="GridCell.Tab.1.center" timestamp="1636984279281">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="392" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1636984279281" />
-    <state width="1771" height="392" key="GridCell.Tab.1.left" timestamp="1636984279280">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="392" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1636984279280" />
-    <state width="1771" height="392" key="GridCell.Tab.1.right" timestamp="1636984279282">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="392" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1636984279282" />
-    <state width="1771" height="392" key="GridCell.Tab.2.bottom" timestamp="1636984279288">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="392" key="GridCell.Tab.2.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1636984279288" />
-    <state width="1771" height="392" key="GridCell.Tab.2.center" timestamp="1636984279286">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="392" key="GridCell.Tab.2.center/0.0.1792.1120@0.0.1792.1120" timestamp="1636984279286" />
-    <state width="1771" height="392" key="GridCell.Tab.2.left" timestamp="1636984279285">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="392" key="GridCell.Tab.2.left/0.0.1792.1120@0.0.1792.1120" timestamp="1636984279285" />
-    <state width="1771" height="392" key="GridCell.Tab.2.right" timestamp="1636984279287">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="392" key="GridCell.Tab.2.right/0.0.1792.1120@0.0.1792.1120" timestamp="1636984279287" />
-    <state width="1771" height="392" key="GridCell.Tab.3.bottom" timestamp="1636984279292">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="392" key="GridCell.Tab.3.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1636984279292" />
-    <state width="1771" height="392" key="GridCell.Tab.3.center" timestamp="1636984279290">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="392" key="GridCell.Tab.3.center/0.0.1792.1120@0.0.1792.1120" timestamp="1636984279290" />
-    <state width="1771" height="392" key="GridCell.Tab.3.left" timestamp="1636984279289">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="392" key="GridCell.Tab.3.left/0.0.1792.1120@0.0.1792.1120" timestamp="1636984279289" />
-    <state width="1771" height="392" key="GridCell.Tab.3.right" timestamp="1636984279291">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state width="1771" height="392" key="GridCell.Tab.3.right/0.0.1792.1120@0.0.1792.1120" timestamp="1636984279291" />
-    <state x="405" y="196" key="SettingsEditor" timestamp="1636863942222">
-      <screen x="0" y="0" width="1792" height="1120" />
-    </state>
-    <state x="405" y="196" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1636863942222" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -207,6 +150,18 @@
           <url>file://$PROJECT_DIR$/subject/两数之和/solution.js</url>
           <line>18</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/subject/回文数/solution.js</url>
+          <line>12</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/subject/回文数/solution.js</url>
+          <line>29</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
