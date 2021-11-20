@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "create": "node ./lib/create.js --dirName=最长公共前缀",
+    "create": "node ./lib/create.js --dirName=有效括号值",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

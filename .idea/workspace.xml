@@ -24,7 +24,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a45e1db1-592c-4d3c-abed-622897f23538" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/public/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/lib/public/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/public/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/lib/public/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,7 +82,7 @@
       <recent name="$PROJECT_DIR$/lib" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.solution.js">
+  <component name="RunManager" selected="npm.create">
     <configuration name="solution.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/subject/整数翻转/solution.js" working-dir="$PROJECT_DIR$/subject/整数翻转">
       <method v="2" />
     </configuration>
@@ -107,8 +107,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.solution.js" />
         <item itemvalue="npm.create" />
+        <item itemvalue="Node.js.solution.js" />
         <item itemvalue="Node.js.solution.js (3)" />
         <item itemvalue="Node.js.solution.js (2)" />
         <item itemvalue="Node.js.solution.js (1)" />
@@ -127,7 +127,8 @@
       <workItem from="1636867687215" duration="768000" />
       <workItem from="1636974392289" duration="2729000" />
       <workItem from="1637156320242" duration="2767000" />
-      <workItem from="1637243639243" duration="1376000" />
+      <workItem from="1637243639243" duration="1674000" />
+      <workItem from="1637415919592" duration="696000" />
     </task>
     <servers />
   </component>
@@ -172,7 +173,6 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/subject/最长公共前缀/solution.js</url>
           <line>14</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
