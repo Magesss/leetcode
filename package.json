@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "create": "node ./lib/create.js --dirName=合并两个有序列表",
+    "create": "node ./lib/create.js --dirName=删除有序数组中的重复项",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
